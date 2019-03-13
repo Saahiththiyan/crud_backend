@@ -7,9 +7,9 @@
 
 This is a CRUD based employee management system built with simplycity in mind.
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
+  - Easy to use
+  - Very basic
+  - Constently improving :wink:
 
 # New Features!
 
