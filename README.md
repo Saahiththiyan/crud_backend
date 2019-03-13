@@ -2,7 +2,7 @@
 
 [![N|Solid](https://raygun.com/upload/languages/php/php.svg)](https://www.taniarascia.com/create-a-simple-database-app-connecting-to-mysql-with-php/)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]()
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 This is a CRUD based employee management system built with simplycity in mind.
 
