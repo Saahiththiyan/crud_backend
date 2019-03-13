@@ -4,6 +4,8 @@
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
+[![HitCount](http://hits.dwyl.io/saahimathi@gmail.com/crud_backend.svg)](http://hits.dwyl.io/saahimathi@gmail.com/crud_backend)
+
 This is a CRUD based employee management system built with simplycity in mind.
 
   - Type some Markdown on the left
