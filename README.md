@@ -2,9 +2,7 @@
 
 [![N|Solid](https://raygun.com/upload/languages/php/php.svg)](https://www.taniarascia.com/create-a-simple-database-app-connecting-to-mysql-with-php/)
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-
-[![HitCount](http://hits.dwyl.io/saahimathi@gmail.com/crud_backend.svg)](http://hits.dwyl.io/saahimathi@gmail.com/crud_backend)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)![GitHub search hit counter](https://img.shields.io/github/search/Saahiththiyan/crud_backend/goto.svg)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/saahimathi.svg?style=social)
 
