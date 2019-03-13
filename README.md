@@ -6,7 +6,7 @@
 
 [![HitCount](http://hits.dwyl.io/saahimathi@gmail.com/crud_backend.svg)](http://hits.dwyl.io/saahimathi@gmail.com/crud_backend)
 
-![Twitter URL](https://img.shields.io/twitter/url/https/saahimathi.svg?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/saahimathi.svg?style=social)
 
 This is a CRUD based employee management system built with simplycity in mind.
 
