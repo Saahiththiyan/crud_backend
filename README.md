@@ -15,6 +15,7 @@ This is a CRUD based employee management system built with simplycity in mind.
 
   - Add Employee details
   - Search for the employee based on location
+  - User friendly ui indevelopement
 
 
 
