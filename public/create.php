@@ -27,27 +27,37 @@
     }
     
 ?>
-
-<?php if (isset($_POST['submit']) && $statement) { ?>
-    <blockquote><?php echo escape($_POST['firstname']); ?> successfully added.</blockquote>
-<?php } ?>
-
-<h2>Add a user</h2>
-
-<form method="post">
-	<label for="firstname">First Name</label>
-	<input type="text" name="firstname" id="firstname">
-	<label for="lastname">Last Name</label>
-	<input type="text" name="lastname" id="lastname">
-	<label for="email">Email Address</label>
-	<input type="text" name="email" id="email">
-	<label for="age">Age</label>
-	<input type="text" name="age" id="age">
-	<label for="location">Location</label>
-	<input type="text" name="location" id="location">
-	<input type="submit" name="submit" value="Submit">
-</form>
-
-<a href="index.php">Back to home</a>
+<div class="container pb-4">
+    
+    <?php if (isset($_POST['submit']) && $statement) { ?>
+        <div class="alert alert-success">
+            <blockquote><?php echo escape($_POST['firstname']); ?> successfully added.</blockquote>
+        </div>
+    <?php } ?>
+    
+    <h2>Add a user</h2>
+    
+    <form method="post">
+    	<div class="form-group">
+            <label for="firstname">First Name</label>
+            <input type="text" class="form-control" name="firstname" id="firstname">
+            <label for="lastname">Last Name</label>
+            <input type="text" class="form-control" name="lastname" id="lastname">
+            <label for="email">Email Address</label>
+            <input type="text" class="form-control" name="email" id="email">
+            <label for="age">Age</label>
+            <input type="text" class="form-control" name="age" id="age">
+            <label for="location">Location</label>
+            <input type="text" class="form-control" name="location" id="location">
+            <div class="mt-4">
+                <input type="submit" class="btn btn-success" name="submit" value="Submit">
+            </div>
+        </div>
+    </form>
+    
+    <div class="mt-4">
+        <a href="index.php"><button type="button" class="btn btn-secondary"> < Home</button></a>
+    </div>
+</div>
 
 <?php include "templates/footer.php"?>
