@@ -70,11 +70,17 @@ if (isset($_POST['submit'])) {
 <h2>Find user based on location</h2>
 
 <form method="post">
-	<label for="location">Location</label>
-	<input type="text" id="location" name="location">
-	<input type="submit" name="submit" value="View Results">
+	<div class="form-group">
+		<label for="location">Location</label>
+		<input type="text" class="form-control" id="location" name="location">
+		<div class="mt-4">
+			<input type="submit" class="btn btn-success" name="submit" value="View Results">
+		</div>
+	</div>
 </form>
 
-<a href="index.php">Back to home</a>
+<div class="mt-4">
+	<a href="index.php"><button type="button" class="btn btn-secondary"> < Home</button></a>
+</div>
 
 <?php require "templates/footer.php"; ?>
